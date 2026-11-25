@@ -711,7 +711,7 @@ Place images in `docs/screenshots/` and update the paths.
 |---|---|---|
 | Shakshi Wadhwa |_Admin module_, _Doctor module_ | [@shakshiwadhwa7-rgb](https://github.com/shakshiwadhwa7-rgb) |
 | rishikapopli|_Receptionist module_ | [@rishikapopli](https://github.com/rishikapopli) |
-| Udayveer Singh Salaria | _Nurse module_ | _link_ |
+| Udayveer Singh Salaria | _Nurse module_ |[@UdayveerSinghSalaria](https://github.com/UdayveerSinghSalaria)|
 | Saksham Tayal | _Pharmacist module_ | _link_ |
 
 
